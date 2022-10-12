@@ -1,20 +1,18 @@
 # Connect-4
-Connect 4 Project
+Connect 4 is a token game created with Python and module Numpy. 
 
-Fully functional version of the game Connect-4, with a couple of twists:
-- Players are able to customize their board size, as well as the amount of discs that need to be connected to win.
-- There is a "pop-out" option. Instead of dropping in a piece, players may remove one of their own pieces currently on the bottom row of the game board, thus moving all the pieces above it down a level. 
-- Choose to play against a friend, or against the computer!
+## What is connect 4?
+It is a two-player connection game in which the players first choose a color and then take turns dropping one colored disc from the top into a seven-column, six-row vertically suspended grid. The pieces fall straight down, occupying the lowest available space within the column, user wins by forming row of four of same color
 
-## How to play
 
-Simply run the code on Python 3! The IDE Spyder is recommended for this game. 
+## How to play:
+Place 4 tokens in a row (vertically, horizontally, or diagonally) before your opponent wins. <br>Single-player against Artificial Intelligence.
 
-The game will be playable in the iPython console. The messages in the console will prompt you to enter certain integers that will give the game the commands it needs to understand your actions, like so:
+The game will be playable in the iPython console.<br>
+One of the ways to create the game is as follows:<br>
+- The messages in the console will prompt you to enter certain integers that will give the game the commands it needs to understand your actions, like so:
 
 ![iPython console](https://i.gyazo.com/192171517e035e94dcf468f08eddb0ae.png)
-
-The board is represented by a numpy array, with the numbers in the array corresponding to the player who placed that disc.
 
 In the below example, notice how player 1 won by connecting 4 diagonal pieces!
 

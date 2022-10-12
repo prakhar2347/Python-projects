@@ -10,3 +10,5 @@ Crete a game of Rock Paper Scissor
 - Rock wins against scissors
 - paper wins against rock
 - scissors wins against paper
+
+![](rock_paper_scissor_img.png)

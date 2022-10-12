@@ -22,11 +22,7 @@ b.	If no one can create a straight line with their own mark and all the position
 
 ### CODE IMPLEMENTATION
 
-* In order to run this code, pygame library needs to be installed. To install this, open command prompt and type "pip install pygame".
-
-* Run the complete code TicTacToeGame.ipynb.
-
-* After running the code, following window will be displayed on the screen (Empty Board): 
+* In order to run this code, pygame library needs to be installed. 
 
 * The game contains two buttons - vs Human and vs AI, so that we can choose our opponent. Once we click button, start playing game by clicking on the game board. Since we play first, we will be defined as Player X. 
 
