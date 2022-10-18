@@ -39,28 +39,39 @@ For your PR to count, it must be:
 ## How to get started
 
 1. Fork [this](https://github.com/Git-For-Geeks/Python-projects) repository.
+
 2. Clone your forked copy of the project.
-<br>
+
 ```
    git clone https://github.com/<your_github_user_name>/Python-projects
 ```
+
 3. Navigate to the project directory.
+
 ```
    cd Python-projects
 ```
+
 4. Make changes in source code and stage.
+
 ```
    git add .
 ```
+
 5. Stage your changes and commit
+
 ```
    git commit -m "<your_commit_message>"
 ```
+
 6. Push your local commits to your repository.
+
 ```
    git push origin main
 ```
+
 7.  Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) to main repository.
+
 8. Note : if maintainer has suggested changes, do that, otherwise your request won't be considered
 
 **Keep Checking leaderBoard to know whether your PR is accepted or not**
