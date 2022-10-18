@@ -30,6 +30,8 @@ A player can choose between two symbols with his opponent, usual game uses â€œXâ
 a.	One of the players gets three of his/her marks in a row (vertically, horizontally, or diagonally) i.e. that player wins the game.<br/>
 b.	If no one can create a straight line with their own mark and all the positions on the board are occupied, then the game ends in a  draw/tie.
 
+![](Tic_tac_toe.svg.png)
+
 ### CODE IMPLEMENTATION
 
 * In order to run this code, pygame library needs to be installed. 
@@ -37,22 +39,6 @@ b.	If no one can create a straight line with their own mark and all the position
 * The game contains two buttons - vs Human and vs AI, so that we can choose our opponent. Once we click button, start playing game by clicking on the game board. Since we play first, we will be defined as Player X. 
 
 * Once the game is finished, the message will be displayed on the game screen with either the winner name (X or O) or Draw game.
-
-## *****How to contribute?*****
-
-- Clone the Repository
-- Choose a Problem statement from this Python Projects Repository and provide a solution.
-- Create an issue and wait for the assignment by the Mantainers.
-- After the issue is assigned to you add your solution to the respective project folder, along with the problem statement file.
-- Now, you are ready to make a pull request.
-- Hola !! You made your PR and wait for the Mantainer to check the Plagarisim and project working.
-
-## Note
-
-- All contributors who have followed the rules to contribute get successfully merged PR. Don't forget to follow!
-- Have some patience to get successfully merged PR. Keep Patience!
-- If you are following a Youtube video, make sure you do some changes and *****not submit the exact code*****.
-
 
 # **End note**
 It's a great privilege of Geeks for Geeks Rcoem. All valid pull request will be accepted, this process may take sometime but don't worry.

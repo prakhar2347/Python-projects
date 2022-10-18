@@ -28,21 +28,6 @@ In the below example, notice how player 1 won by connecting 4 diagonal pieces!
 
 ![player 1 victory](https://i.gyazo.com/45d2f1ab497c285dd75a2491377eb564.png)
 
-## *****How to contribute?*****
-
-- Clone the Repository
-- Choose a Problem statement from this Python Projects Repository and provide a solution.
-- Create an issue and wait for the assignment by the Mantainers.
-- After the issue is assigned to you add your solution to the respective project folder, along with the problem statement file.
-- Now, you are ready to make a pull request.
-- Hola !! You made your PR and wait for the Mantainer to check the Plagarisim and project working.
-
-## Note
-
-- All contributors who have followed the rules to contribute get successfully merged PR. Don't forget to follow!
-- Have some patience to get successfully merged PR. Keep Patience!
-- If you are following a Youtube video, make sure you do some changes and *****not submit the exact code*****.
-
 
 # **End note**
 It's a great privilege of Geeks for Geeks Rcoem. All valid pull request will be accepted, this process may take sometime but don't worry.
