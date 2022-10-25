@@ -8,15 +8,10 @@ Git-For-Geeks in as open source contribution event conducted by Geeks-for-Geeks 
 - Celebrate Git-For-Geeks by getting involved in the open source community by completing some simple tasks in this project.
 - This repository is open to all members who have registered for the Git-For-Geeks Event.
 
-# Image-to-pencil-sketch
-Write a python code to convert Images to Sketch
-## Flow of Code
-- We need to read the image in RGB format and then convert it to a grayscale image. 
-- Then the next thing to do is invert the grayscale image also called negative image, this will be our inverted grayscale image. 
-- Inversion can be used to enhance details. 
-- Finally create the pencil sketch by mixing the grayscale image with the inverted blurry image. This can be done by dividing the grayscale image by the inverted blurry image. Since images are just arrays, do this programmatically using the divide function from the cv2 library in Python.
-
-![](ImgToSketch.jfif)
+# Guess the Number
+Write a python code to Play Guess the Number Game
+## Objective
+An Guess the number is an application that let you play this game where the AI will randomly choose a number fom 1 - 100 and you will have several chances to guess that number and win the game. You will also have some hints which you can use to get information about how far was your previous guess from the actual number choosen by AI. The game shoud also be interactive and help the new user to undestand the game rules and guide him on how to play the game.
 
 # **End note**
 It's a great privilege of Geeks for Geeks Rcoem. All valid pull request will be accepted, this process may take sometime but don't worry.
