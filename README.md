@@ -8,15 +8,15 @@
 
 ## Rules :
 
-- To earn Git-For-Geeks goodies, you must **register** and make **4 valid pull requests** (PRs) between October 19-29 (in any time zone).
+- You must **register** and submit **4 valid pull requests** (PRs) between October 19 and October 29 (in any time zone) to earn Git-For-Geeks swag.
 - Pull requests can be made in any repository of Git-For-Geeks organizations.
 - Pull requests must be approved by a maintainer of the repository/project to count.
-- If a maintainer reports your pull request as spam or behavior is not in line with the project’s code of conduct, you will be ineligible to participate.
+- If a maintainer reports your pull request as spam or your behaviour is not in line with the project’s code of conduct, you will be ineligible to participate.
 
 For your PR to count, it must be:
 
 - Submitted in a `Git-for-Geeks` repository
-- The PR should be labeled as `gitforgeeks-accepted` by a maintainer.
+- The PR should be labelled as `gitforgeeks-accepted` by a maintainer.
 
 ---
 
@@ -29,7 +29,7 @@ For your PR to count, it must be:
 
 ---
 
-## Rules To Contribute To This Repo
+## Guidelines for Contributing to This Repo
 
 - Select projects from the repo and try to provide python solutions for the same.
 - Follow the file naming convention for all your pull requests.
@@ -38,10 +38,11 @@ For your PR to count, it must be:
 
 ## How to get started
 
+## Where to Begin
+
 1. Fork [this](https://github.com/Git-For-Geeks/Python-projects) repository.
 
-2. Clone your forked copy of the project.
-
+2. Clone your forked project copy.
 ```
    git clone https://github.com/<your_github_user_name>/Python-projects
 ```
@@ -52,7 +53,7 @@ For your PR to count, it must be:
    cd Python-projects
 ```
 
-4. Make changes in source code and stage.
+4. Make changes to the source code and stage.
 
 ```
    git add .
@@ -72,9 +73,9 @@ For your PR to count, it must be:
 
 7.  Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) to main repository.
 
-8. Note : if maintainer has suggested changes, do that, otherwise your request won't be considered
+8. Note : If the maintainer has suggested changes, make those, otherwise your request won't be considered.
 
-**Keep Checking leaderBoard to know whether your PR is accepted or not**
+**Keep Checking leaderboard to know if your PR is accepted or not**
 
 ## Materials
 
