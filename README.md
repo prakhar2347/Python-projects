@@ -2,7 +2,7 @@
 
 ![gfg-banner.png](https://user-images.githubusercontent.com/90423812/195241228-23e70dec-a9d8-4dd6-bd84-a1b21eae2cb5.png)
 
-# **Git For Geeks - 2022**
+# **Git For Geeks - 2023**
 
 # **Python Projects**
 
